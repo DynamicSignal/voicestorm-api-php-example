@@ -91,7 +91,7 @@ $voicestormTokenSecret= "XXXXXXXXXXXXXXXXXXXX";
 $voicestormBaseUrl="https://[example].voicestorm.com/v1";
 ```
 
-###Step 5: Testing
+###Step 4: Testing
 
 Please test the following:
 
